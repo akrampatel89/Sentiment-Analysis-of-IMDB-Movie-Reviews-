@@ -4,6 +4,7 @@
 * [Approach](#Approach)
   * [Importing the data and taking a first look at it.](#Importing-and-looking-at-data)
   * [Exploratery data analysis.](#Exploratery-data-analysis)
+  * [Splitting the dataset.](#Splitting-the-dataset)
 
 
 
@@ -23,5 +24,8 @@ The dataset has two columns review and sentiment.There are 50000 reveiws.
 The positive and negative sentiment are equal in count.
 
 ![image](https://user-images.githubusercontent.com/55452866/89194735-5fc15200-d5c5-11ea-8a28-7e9a8463fcc0.png)
+
+### Splitting the dataset:
+The dataset is divided into 80:20 ratio 80% is for training the model and 20% is for testing our model.
 
 
