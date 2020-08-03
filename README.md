@@ -2,12 +2,13 @@
 ## Table of Contents
 * [Problem Statement](#Problem-Statement)
 * [Approach](#Approach)
-  * [Importing the data and taking a first look at it.](#Importing-the-data-and-taking-a-first-look-at-it)
-  * [Exploratory Data Analysis.](#Exploratory-Data-Analysis)
-  * [Splitting the dataset.](#Splitting-the-dataset)
-  * [Text Normalization.](#Text-Normalization)
-  * [Removing html strips and noise text.](#Removing-html-strips-and-noise-text)
-  * [Removing special characters.](#Removing-special-characters)
+ * [Data Preprocessing](#Data-Preprocessing)
+   * [Importing the data and taking a first look at it.](#Importing-the-data-and-taking-a-first-look-at-it)
+   * [Exploratory Data Analysis.](#Exploratory-Data-Analysis)
+   * [Splitting the dataset.](#Splitting-the-dataset)
+   * [Text Normalization.](#Text-Normalization)
+   * [Removing html strips and noise text.](#Removing-html-strips-and-noise-text)
+   * [Removing special characters.](#Removing-special-characters)
 
 
 
@@ -19,6 +20,9 @@ In this, we have to predict the number of positive and negative reviews based on
 ![image](https://user-images.githubusercontent.com/55452866/89191685-ec1d4600-d5c0-11ea-94be-de8793258b00.png)
 
 ## Approach:
+
+### Data Preprocessing:
+In this section I am doing all the Data cleaning and analysis.
 
 ### Importing the data and taking a first look at it:
 The dataset has two columns review and sentiment.There are 50000 reveiws.
