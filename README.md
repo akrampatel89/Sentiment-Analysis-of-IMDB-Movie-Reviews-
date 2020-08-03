@@ -15,3 +15,6 @@ In this, we have to predict the number of positive and negative reviews based on
 
 ## Approach:
 
+### Importing the data and taking a first look at it:
+The dataset has two columns review and sentiment.There are 50000 reveiws.
+
