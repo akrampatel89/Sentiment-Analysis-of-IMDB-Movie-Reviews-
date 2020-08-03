@@ -2,6 +2,7 @@
 ## Table of Contents
 * [Problem Statement](#Problem-Statement)
 * [Approach](#Approach)
+  * [Importing the data and taking a first look at it](#importing-and-looking-at-data)
 
 
 
