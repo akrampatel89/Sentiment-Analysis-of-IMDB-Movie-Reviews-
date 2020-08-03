@@ -22,3 +22,6 @@ The dataset has two columns review and sentiment.There are 50000 reveiws.
 ### Exploratery data analysis:
 The positive and negative sentiment are equal in count.
 
+![image](https://user-images.githubusercontent.com/55452866/89194735-5fc15200-d5c5-11ea-8a28-7e9a8463fcc0.png)
+
+
