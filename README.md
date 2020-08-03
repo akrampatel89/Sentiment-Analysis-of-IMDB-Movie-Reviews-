@@ -7,6 +7,7 @@
   * [Splitting the dataset.](#Splitting-the-dataset)
   * [Text Normalization.](#Text-Normalization)
   * [Removing html strips and noise text.](#Removing-html-strips-and-noise-text)
+  * [Removing special characters.](#Removing-special-characters)
 
 
 
@@ -38,5 +39,8 @@ Here I am initiating tokenizer for tokenization and setting English stopwords.
 
 ### Removing html strips and noise text:
 By using Beautiful soup I am removing the url and I am removing some noising text by defining a function which will remoe the noise.
+
+### Removing special characters:
+While going through the data i find out that it contains some special characters which i thought which was not important so I removed those special characters.
 
 
