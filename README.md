@@ -5,7 +5,7 @@
   * [Importing the data and taking a first look at it.](#Importing-and-looking-at-data)
   * [Exploratery data analysis.](#Exploratery-data-analysis)
   * [Splitting the dataset.](#Splitting-the-dataset)
-  * [Text Normalization.](#Text Normalization)
+  * [Text Normalization.](#Text-Normalization)
 
 
 
