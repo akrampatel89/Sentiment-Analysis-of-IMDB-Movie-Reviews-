@@ -2,7 +2,8 @@
 ## Table of Contents
 * [Problem Statement](#Problem-Statement)
 * [Approach](#Approach)
-  * [Importing the data and taking a first look at it](#importing-and-looking-at-data)
+  * [Importing the data and taking a first look at it.](#Importing-and-looking-at-data)
+  * [Exploratery data analysis.](#Exploratery-data-analysis)
 
 
 
@@ -17,4 +18,10 @@ In this, we have to predict the number of positive and negative reviews based on
 
 ### Importing the data and taking a first look at it:
 The dataset has two columns review and sentiment.There are 50000 reveiws.
+
+### Exploratery data analysis:
+The positive and negative sentiment are equal in count.
+
+![image](https://user-images.githubusercontent.com/55452866/89194735-5fc15200-d5c5-11ea-8a28-7e9a8463fcc0.png)
+
 
