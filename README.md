@@ -5,6 +5,7 @@
   * [Importing the data and taking a first look at it.](#Importing-and-looking-at-data)
   * [Exploratery data analysis.](#Exploratery-data-analysis)
   * [Splitting the dataset.](#Splitting-the-dataset)
+   * [Text Normalization.](#Text Normalization)
 
 
 
@@ -27,5 +28,8 @@ The positive and negative sentiment are equal in count.
 
 ### Splitting the dataset:
 The dataset is divided into 80:20 ratio 80% is for training the model and 20% is for testing our model.
+
+### Text Normalization:
+Here I am initiating tokenizer for tokenization and setting English stopwords. 
 
 
