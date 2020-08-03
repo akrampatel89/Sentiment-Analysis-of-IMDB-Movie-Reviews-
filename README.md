@@ -2,7 +2,7 @@
 ## Table of Contents
 * [Problem Statement](#Problem-Statement)
 * [Approach](#Approach)
-  * [Importing the data and taking a first look at it.](#Importing-and-looking-at-data)
+  * [Importing the data and taking a first look at it.](#Importing-the-data-and-taking-a-first-look-at-it)
   * [Exploratory Data Analysis.](#Exploratory-Data-Analysis)
   * [Splitting the dataset.](#Splitting-the-dataset)
   * [Text Normalization.](#Text-Normalization)
