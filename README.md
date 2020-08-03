@@ -21,7 +21,7 @@ In this, we have to predict the number of positive and negative reviews based on
 
 ## Approach:
 
-### Data Preprocessing:
+## Data Preprocessing:
 In this section I am doing all the Data cleaning and analysis.
 
 ### Importing the data and taking a first look at it:
