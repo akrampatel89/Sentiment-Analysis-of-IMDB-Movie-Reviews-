@@ -1,6 +1,6 @@
 # Sentiment-Analysis-of-IMDB-Movie-Reviews-
 ## Table of Contents
-* [Problem Statement:](#Problem-Statement)
+* [Problem Statement](#Problem-Statement)
 
 
 
