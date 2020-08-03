@@ -29,6 +29,9 @@ The positive and negative sentiment are equal in count.
 ### Splitting the dataset:
 The dataset is divided into 80:20 ratio 80% is for training the model and 20% is for testing our model.
 
+![image](https://user-images.githubusercontent.com/55452866/89196336-b596f980-d5c7-11ea-94d6-7c067644dd54.png)
+
+
 ### Text Normalization:
 Here I am initiating tokenizer for tokenization and setting English stopwords. 
 
