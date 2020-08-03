@@ -6,6 +6,7 @@
   * [Exploratory Data Analysis.](#Exploratory-Data-Analysis)
   * [Splitting the dataset.](#Splitting-the-dataset)
   * [Text Normalization.](#Text-Normalization)
+  * [Removing html strips and noise text.](#Removing-html-strips-and-noise-text)
 
 
 
@@ -34,5 +35,8 @@ The dataset is divided into 80:20 ratio 80% is for training the model and 20% is
 
 ### Text Normalization:
 Here I am initiating tokenizer for tokenization and setting English stopwords. 
+
+### Removing html strips and noise text:
+By using Beautiful soup I am removing the url and I am removing some noising text by defining a function which will remoe the noise.
 
 
