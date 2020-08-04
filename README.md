@@ -9,6 +9,7 @@
    * [Text Normalization.](#Text-Normalization)
    * [Removing html strips and noise text.](#Removing-html-strips-and-noise-text)
    * [Removing special characters.](#Removing-special-characters)
+   * [Removing Stopwords.](#Removing-Stopwords)
 
 
 
@@ -46,5 +47,8 @@ By using Beautiful soup I am removing the url and I am removing some noising tex
 
 ### Removing special characters:
 While going through the data i find out that it contains some special characters which i thought which was not important so I removed those special characters.
+
+### Removing Stopwords:
+There are words in the reviews which does not give us the sentiment of the sentence hence they are useless for us hence I removed that. 
 
 
