@@ -10,6 +10,7 @@
    * [Removing html strips and noise text.](#Removing-html-strips-and-noise-text)
    * [Removing special characters.](#Removing-special-characters)
    * [Removing Stopwords.](#Removing-Stopwords)
+   * [Normalizing the Train and Test data.](#Normalizing-the-Train-and-Test-data)
 
 
 
@@ -50,5 +51,8 @@ While going through the data i find out that it contains some special characters
 
 ### Removing Stopwords:
 There are words in the reviews which does not give us the sentiment of the sentence hence they are useless for us hence I removed that. 
+
+### Normalizing the Train and Test data:
+Here I am normalizing the train and test data.
 
 
