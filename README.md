@@ -11,6 +11,7 @@
    * [Removing special characters.](#Removing-special-characters)
    * [Removing Stopwords.](#Removing-Stopwords)
    * [Normalizing the Train and Test data.](#Normalizing-the-Train-and-Test-data)
+   * [Bag of Words.](#Bag-of-Words)
 
 
 
@@ -54,5 +55,8 @@ There are words in the reviews which does not give us the sentiment of the sente
 
 ### Normalizing the Train and Test data:
 Here I am normalizing the train and test data.
+
+### Bag of Words:
+It is used to convert text documents to numerical vectors or bag of words.
 
 
