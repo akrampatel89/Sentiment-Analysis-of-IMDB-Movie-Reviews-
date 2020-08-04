@@ -13,7 +13,7 @@
    * [Normalizing the Train and Test data.](#Normalizing-the-Train-and-Test-data)
    * [Bag of Words.](#Bag-of-Words)
    * [TFIDF.](#TFIDF)
-   * [Labelling the Sentiments.](#Labelling the Sentiments)
+   * [Labelling the Sentiments.](#Labelling-the-Sentiments)
 
 
 
