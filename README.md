@@ -59,4 +59,7 @@ Here I am normalizing the train and test data.
 ### Bag of Words:
 It is used to convert text documents to numerical vectors or bag of words.
 
+![image](https://user-images.githubusercontent.com/55452866/89327711-ef403100-d6a9-11ea-9488-9772f7c5b418.png)
+
+
 
