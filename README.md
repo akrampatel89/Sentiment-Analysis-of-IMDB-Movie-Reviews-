@@ -67,6 +67,6 @@ It is used to convert text documents to numerical vectors or bag of words.
 It is used to convert text documents to matrix of tfidf features.
 
 ### Labelling the Sentiments:
-In this I am labelling the sentiment to 1 or o for Positive & Negative respectively. 
+In this I am labelling the sentiment to 1 or 0 for Positive & Negative respectively. 
 
 
