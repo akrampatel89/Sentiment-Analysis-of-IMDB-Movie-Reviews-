@@ -12,6 +12,7 @@
    * [Removing Stopwords.](#Removing-Stopwords)
    * [Normalizing the Train and Test data.](#Normalizing-the-Train-and-Test-data)
    * [Bag of Words.](#Bag-of-Words)
+   * [TFIDF.](#TFIDF)
 
 
 
@@ -61,5 +62,7 @@ It is used to convert text documents to numerical vectors or bag of words.
 
 ![image](https://user-images.githubusercontent.com/55452866/89327711-ef403100-d6a9-11ea-9488-9772f7c5b418.png)
 
+### TFIDF:
+It is used to convert text documents to matrix of tfidf features.
 
 
