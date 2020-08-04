@@ -9,6 +9,11 @@
    * [Text Normalization.](#Text-Normalization)
    * [Removing html strips and noise text.](#Removing-html-strips-and-noise-text)
    * [Removing special characters.](#Removing-special-characters)
+   * [Removing Stopwords.](#Removing-Stopwords)
+   * [Normalizing the Train and Test data.](#Normalizing-the-Train-and-Test-data)
+   * [Bag of Words.](#Bag-of-Words)
+   * [TFIDF.](#TFIDF)
+   * [Labelling the Sentiments.](#Labelling-the-Sentiments)
 
 
 
@@ -46,5 +51,22 @@ By using Beautiful soup I am removing the url and I am removing some noising tex
 
 ### Removing special characters:
 While going through the data i find out that it contains some special characters which i thought which was not important so I removed those special characters.
+
+### Removing Stopwords:
+There are words in the reviews which does not give us the sentiment of the sentence hence they are useless for us hence I removed that. 
+
+### Normalizing the Train and Test data:
+Here I am normalizing the train and test data.
+
+### Bag of Words:
+It is used to convert text documents to numerical vectors or bag of words.
+
+![image](https://user-images.githubusercontent.com/55452866/89327711-ef403100-d6a9-11ea-9488-9772f7c5b418.png)
+
+### TFIDF:
+It is used to convert text documents to matrix of tfidf features.
+
+### Labelling the Sentiments:
+In this I am labelling the sentiment to 1 or o for Positive & Negative respectively. 
 
 
