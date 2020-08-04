@@ -13,6 +13,7 @@
    * [Normalizing the Train and Test data.](#Normalizing-the-Train-and-Test-data)
    * [Bag of Words.](#Bag-of-Words)
    * [TFIDF.](#TFIDF)
+   * [Labelling the Sentiments.](#Labelling the Sentiments)
 
 
 
@@ -64,5 +65,8 @@ It is used to convert text documents to numerical vectors or bag of words.
 
 ### TFIDF:
 It is used to convert text documents to matrix of tfidf features.
+
+### Labelling the Sentiments:
+In this I am labelling the sentiment to 1 or o for Positive & Negative respectively. 
 
 
