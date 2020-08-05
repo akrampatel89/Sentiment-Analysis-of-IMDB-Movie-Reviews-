@@ -14,6 +14,7 @@
    * [Bag of Words.](#Bag-of-Words)
    * [TFIDF.](#TFIDF)
    * [Labelling the Sentiments.](#Labelling-the-Sentiments)
+* [Implementation Of Models.](#Implementation-Of-Models) 
 
 
 
@@ -67,6 +68,9 @@ It is used to convert text documents to numerical vectors or bag of words.
 It is used to convert text documents to matrix of tfidf features.
 
 ### Labelling the Sentiments:
-In this I am labelling the sentiment to 1 or 0 for Positive & Negative respectively. 
+In this I am labelling the sentiment to 1 or 0 for Positive & Negative respectively.
+
+## Implementation Of Models:
+From here I am implementing multiple models & deciding which models gives the highest accuracy.
 
 
