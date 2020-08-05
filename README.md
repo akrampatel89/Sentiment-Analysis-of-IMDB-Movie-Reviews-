@@ -14,7 +14,8 @@
    * [Bag of Words.](#Bag-of-Words)
    * [TFIDF.](#TFIDF)
    * [Labelling the Sentiments.](#Labelling-the-Sentiments)
-* [Implementation Of Models.](#Implementation-Of-Models) 
+* [Implementation Of Models.](#Implementation-Of-Models)
+   * [Logistic Regression.](#Logistic-Regression) 
 
 
 
@@ -72,5 +73,8 @@ In this I am labelling the sentiment to 1 or 0 for Positive & Negative respectiv
 
 ## Implementation Of Models:
 From here I am implementing multiple models & deciding which models gives the highest accuracy.
+
+### Logistic Regression:
+The accuracy score which i am getting for logistic regression is 75.12.
 
 
