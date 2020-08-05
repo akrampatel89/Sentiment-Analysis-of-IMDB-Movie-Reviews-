@@ -15,7 +15,8 @@
    * [TFIDF.](#TFIDF)
    * [Labelling the Sentiments.](#Labelling-the-Sentiments)
 * [Implementation Of Models.](#Implementation-Of-Models)
-   * [Logistic Regression.](#Logistic-Regression) 
+   * [Logistic Regression.](#Logistic-Regression)
+   * [SVM Model.](#SVM-Model)
 
 
 
@@ -75,6 +76,10 @@ In this I am labelling the sentiment to 1 or 0 for Positive & Negative respectiv
 From here I am implementing multiple models & deciding which models gives the highest accuracy.
 
 ### Logistic Regression:
-The accuracy score which i am getting for logistic regression is 75.12.
+The accuracy score which i am getting for logistic regression is 75.12%.
+
+### SVM Model:
+The accuracy score which i am getting for SVM is 58.29%.
+
 
 
