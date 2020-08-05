@@ -17,6 +17,7 @@
 * [Implementation Of Models.](#Implementation-Of-Models)
    * [Logistic Regression.](#Logistic-Regression)
    * [SVM Model.](#SVM-Model)
+   * [Multinomial Naive Bayes.](#Multinomial-Naive-Bayes)
 
 
 
@@ -80,6 +81,10 @@ The accuracy score which i am getting for logistic regression is 75.12%.
 
 ### SVM Model:
 The accuracy score which i am getting for SVM is 58.29%.
+
+### Multinomial Naive Bayes:
+The accuracy score which i am getting for SVM is 75.1%.
+
 
 
 
