@@ -18,6 +18,7 @@
    * [Logistic Regression.](#Logistic-Regression)
    * [SVM Model.](#SVM-Model)
    * [Multinomial Naive Bayes.](#Multinomial-Naive-Bayes)
+* [Conclusion.](#Conclusion)    
 
 
 
@@ -84,6 +85,9 @@ The accuracy score which i am getting for SVM is 58.29%.
 
 ### Multinomial Naive Bayes:
 The accuracy score which i am getting for SVM is 75.1%.
+
+### Conclusion:
+We can observed that both logistic regression and multinomial naive bayes model performing well compared to linear support vector machines.
 
 
 
